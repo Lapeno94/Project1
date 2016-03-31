@@ -7,3 +7,12 @@ c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter
 c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\obj\Debug\performanceCounter.csproj.GenerateResource.Cache
 c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\obj\Debug\performanceCounter.exe
 c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\obj\Debug\performanceCounter.pdb
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\bin\Debug\performanceCounter.exe.config
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.exe
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.pdb
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\bin\Debug\performanceCounter.exe
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\bin\Debug\performanceCounter.pdb
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.csprojResolveAssemblyReference.cache
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.Form1.resources
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.Properties.Resources.resources
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.csproj.GenerateResource.Cache
